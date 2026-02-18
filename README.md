@@ -1,2 +1,2 @@
 # Gen-AI
-this is repository to laearn an genai from scatch 
+This is repository to laearn an gen-ai from scatch 
